@@ -1,6 +1,7 @@
 # tc_overlay_renderer
 
-A new Flutter project.
+BUILD: flutter build linux --release
+Muss auf einem Linux rechner gemacht werden
 
 ## Getting Started
 
